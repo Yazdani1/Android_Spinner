@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Spinner</string>
+
+
+    <string-array name="list">
+
+        <item>Windos</item>
+
+        <item>Apple</item>
+
+        <item>iphone</item>
+
+        <item>Samsung</item>
+
+        <item>Sony</item>
+
+        <item>Lenovo</item>
+
+
+    </string-array>
+
+</resources>
